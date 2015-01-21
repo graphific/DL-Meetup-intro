@@ -6,6 +6,7 @@ All code primarily based on the work by thouis and vkaynig for ComputeFest 2015:
 https://github.com/vkaynig/ComputeFest2015_DeepLearning
 
 secondary sources: 
+
 LISA DL tutorial/code:
 - https://github.com/lisa-lab/DeepLearningTutorials
 - http://deeplearning.net/tutorial/
